@@ -1,12 +1,11 @@
-# NUANCED: Natural Utterance Annotation for Nuanced Conversation
-with Estimated Distributions 
+# NUANCED: Natural Utterance Annotation for Nuanced Conversation with Estimated Distributions 
 
 ## Overview
 
 
 ## Citations
 
-If you want to publish experimental results with our datasets or use the baseline models, please cite the following articles([pdf][accentor_arxiv]):
+If you want to publish experimental results with our datasets or use the baseline models, please cite the following articles:
 ```
 @article{chen2020nuanced,
   title={NUANCED: Natural Utterance Annotation for Nuanced Conversation with Estimated Distributions},
