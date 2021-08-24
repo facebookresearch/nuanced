@@ -8,13 +8,13 @@ Existing conversational systems are mostly agent-centric, which assumes the user
 
 In this work, we attempt to build a user-centric dialogue system. As there is no clean mapping for a user’s free form utterance to an ontology, we first model the user preferences as estimated distributions over the system ontology and map the users’ utterances to such distributions. Learning such a mapping poses new challenges on reasoning over existing knowledge, ranging from factoid knowledge, commonsense knowledge to the users’ own situations. To this end, we build a new dataset named NUANCED that focuses on such realistic settings for conversational recommendation. We believe NUANCED can serve as a valuable resource to push existing research from the agent-centric system to the user-centric system.
 
+For more details, please refer to this [paper](https://arxiv.org/pdf/2010.12758.pdf) and this [paper](https://aclanthology.org/2020.coling-main.463.pdf).
+
 <figure>
 <img src="./nuanced_example.png" width="400" alt="Examples of traditional dataset and NUANCED" align="center"> 
 <figcaption><i>Examples of traditional dataset and NUANCED: in real-world scenarios, the free form user utterances often mismatch with system ontology. In NUANCED, we model the user preferences (or dialogue state) as distributions over the ontology, therefore to allow mapping of entities unknown to the system to multiple values and slots for efficient conversation.</i></figcaption> 
 </figure>
 
-
-For more details, please refer to this [paper](https://arxiv.org/pdf/2010.12758.pdf) and this [paper](https://aclanthology.org/2020.coling-main.463.pdf).
 
 ## Data
 
