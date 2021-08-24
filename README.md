@@ -18,7 +18,7 @@ For more details, please refer to this [paper](https://arxiv.org/pdf/2010.12758.
 
 ## Data
 
-In this data release, we have included both the nuanced version where user preferences are mapped to an estimated distribution and the coarse version where user preferences are mapped to traditional slot labels according to system ontology. 
+In this data release, we have included both the nuanced version where user preferences are mapped to an estimated distribution and the coarse version where user preferences are mapped to discrete slot labels according to system ontology. 
 
 - Folder data_dist: the nuanced version;
 - Folder data_discrete: the coarse version with 0-1 labels;
